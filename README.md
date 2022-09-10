@@ -4,7 +4,7 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaliechu117&theme=dracula&layout=compact&langs_count=10"/>
   
-  ### Chu Chang wook
+  ### Chu Chang wook!
   
   ---
   
