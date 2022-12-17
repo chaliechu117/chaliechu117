@@ -7,7 +7,7 @@ HI! I'm Chu Chang Wook 😁
 </a>
 
 ![Changwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaliechu117&show_icons=true&theme=radical)
-
+[![Solved.ac chaliechu117](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaliechu117)](https://solved.ac/chaliechu117)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chaliechu117&color=dark&tag=머신러닝)](https://velog.io/@chaliechu117/series)
 </div>
 </h1>
